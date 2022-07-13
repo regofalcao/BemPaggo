@@ -1,0 +1,16 @@
+{
+"compilerOptions": {
+    "strictNullChecks": true,
+    "target": "es5",
+    "module": "ES2015",
+    "declaration": true,
+    "outDir": "./lib",
+    "noImplicitAny": false,
+    "importHelpers": true
+    },
+    "include": [
+    "src/**/*",
+    ".d.ts",   // declaration file path
+    ],
+    "compileOnSave": false
+}
