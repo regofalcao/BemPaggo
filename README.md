@@ -1,6 +1,6 @@
 #Checkout BemPaggo
 
-Desafio Proposto pela BemPaggo de fazer uma tela de Login Utilizando VueJs
+Desafio Proposto pela BemPaggo de fazer uma tela de Checkout Utilizando VueJs
 
 ao Baixar o código : npm install e npm run serve
 
